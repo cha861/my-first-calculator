@@ -1,1 +1,3 @@
---This is the code for the first calculaor i learned during my learning journey..
+#FirstCalculator
+--This repo consists of the code for the first calculator I practiced when i was just getting started with javascript.
+-- many updates are planning in the upcoming days.

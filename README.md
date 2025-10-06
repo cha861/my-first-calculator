@@ -12,7 +12,8 @@ This is my very first project — a simple calculator that can perform basic ari
 - Beginner-friendly and easy to understand
 
 ---
-
+## ✨ sample image
+-
 ## 🚀 Getting Started
  Clone this repository:
    ```bash

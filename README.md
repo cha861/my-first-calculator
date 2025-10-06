@@ -13,7 +13,7 @@ This is my very first project — a simple calculator that can perform basic ari
 
 ---
 ## ✨ sample image
--
+- [Screenshot 2025-09-04 202101.png]
 ## 🚀 Getting Started
  Clone this repository:
    ```bash
